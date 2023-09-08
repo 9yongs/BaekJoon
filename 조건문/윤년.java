@@ -4,7 +4,6 @@ import java.io.InputStreamReader;
 
 // 2023.09.08 작성
 
-
 public class Main {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
